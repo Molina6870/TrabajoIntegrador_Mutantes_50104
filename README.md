@@ -130,6 +130,9 @@ src/
 │
 └── MutantDetectorApplicationTests.java
 
+<img width="606" height="1073" alt="image" src="https://github.com/user-attachments/assets/f57f045f-b1ef-408a-b881-a62dd6e865ee" />
+
+
 # Tecnologías Clave:
 
 * Lenguaje: Java 17+
